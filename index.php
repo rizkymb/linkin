@@ -31,7 +31,8 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                       <li><a href="#">New Project</a></li>
-                      <li><a href="#">Another action</a></li>
+                      <li><a href="#">Existing Project</a></li>
+                      <li><a href="#">Statistic</a></li>
                       <li><a href="#">Something else here</a></li>
                       <li role="separator" class="divider"></li>
                       <li class="dropdown-header">Secondary Action</li>
