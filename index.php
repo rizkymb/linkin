@@ -33,7 +33,7 @@
                       <li><a href="#">New Project</a></li>
                       <li><a href="#">Existing Project</a></li>
                       <li><a href="#">Statistic</a></li>
-                      <li><a href="#">Something else here</a></li>
+                      <li><a href="#">Reminder Setting</a></li>
                       <li role="separator" class="divider"></li>
                       <li class="dropdown-header">Secondary Action</li>
                       <li><a href="#">Separated link</a></li>
@@ -48,8 +48,8 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-user"></span>&nbsp;Hello 'User'<span class="caret"></span></a>
                             <ul class="dropdown-menu">
                               <li><a href="#">Profile</a></li>
-                              <li><a href="#">Change Status</a></li>
-                              <li><a href="#">Something else here</a></li>
+                              <li><a href="#">Projects</a></li>
+                              <li><a href="#">Setting</a></li>
                               <li role="separator" class="divider"></li>
                               <li class="dropdown-header">Action</li>
                               <li><a href="">Sign Out</a></li>
